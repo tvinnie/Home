@@ -2,7 +2,7 @@
   "name": "veans",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tvinnie.github.io/veans",
+  "homepage": "http://tvinnie.github.io/Vincent",
   "dependencies": {
     "@craco/craco": "^6.1.2",
     "@heroicons/react": "^1.0.1",

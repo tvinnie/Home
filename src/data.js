@@ -70,7 +70,7 @@ export const projects = [
     "React",
     "Next.js",
     "Node",
-    "GraphQL",
+    "Version Control",
     "Material UI",
     "Android",
     "Java"
