@@ -1,35 +1,34 @@
 export const projects = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "MoFlix",
+      subtitle: "React | OMDb API | Bootstrap",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+        "A Movie app that fetches the movies from OMDB api, converts to JSON objects and displays to the user",
+      image: "./mof.gif",
+      link: "https://github.com/tvinnie/MoFlix",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Adventure",
+      subtitle: "React | React Router DOM",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reactbootcamp.com",
+        "Simple Responsive React App",
+      image: "./adv.gif",
+      link: "https://github.com/tvinnie/Adventure",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://reactbootcamp.com",
+      title: "Flashpoint",
+      subtitle: "HTML | CSS | JS",
+      description:"A Responsive site where one can order a pizza from the comfort of there home",
+      image: "./flash.gif",
+      link: "https://github.com/tvinnie/Flashpoint",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Epuka App",
+      subtitle: "Android | Firebase |Java | Material UI",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://reactbootcamp.com",
+      "Designed a scalable, robust and secure mobile app where addicts in remission can find help.",
+      image: "./epuka.png",
+      link: "https://github.com/tvinnie/epuka",
     },
   ];
   
