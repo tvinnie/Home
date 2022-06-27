@@ -59,7 +59,7 @@ export const projects = [
         "A great guy, with a brilliant mind. All things UI/UX expect him to give you something unique.",
       image: "https://raw.githubusercontent.com/tvinnie/master/master/img/kevin.jpg",
       name: "Kevin Tum",
-      company: "Peak and Dale Solutions Ltd",
+      company: "Peak and Dale Solutions Limited",
     },
     
   ];
